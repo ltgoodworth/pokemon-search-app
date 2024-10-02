@@ -1,0 +1,55 @@
+body {
+  background-color: grey;
+}
+
+#main-box {
+  background-color: green;
+  width: 500px;
+  height: 850px;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 40px;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 30px;
+}
+
+#search-input {
+  margin-right: 20px;
+  height: 35px;
+}
+
+.info-div {
+  display: flex;
+}
+
+.info-div p {
+  height: 15px;
+  width: 100px;
+}
+
+#img-div {
+  display: flex;
+  margin: 0 auto;
+  height: 250px;
+  width: 250px;
+}
+
+#types {
+  height: 15px;
+  width: 200px;
+}
+
+table {
+  position: relative;
+  top: 200;
+  width: 90%;
+  margin: 20px;
+  text-align: center;
+}
+
+th, td {
+  background-color: grey;
+}
